@@ -161,6 +161,6 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Roblox · Actualizado 2026-11-05 · Compartido bajo licencia MIT*
+*Roblox · Actualizado 2026-11-06 · Compartido bajo licencia MIT*
 
-<!-- last reviewed 2026-11-05 -->
+<!-- last reviewed 2026-11-06 -->
